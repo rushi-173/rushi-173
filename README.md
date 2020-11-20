@@ -5,7 +5,7 @@
 #### - 🤓 I am a curious soul who loves to explore new things.
 #### - 💝 I love to apply my knowledge somewhere and share my learnings with others.
 #### - 👨‍💻 I am passionate for solving practical problems through efficient problem solving skill. 
-#### - 🌱 I’m currently exploring Web Development in deep. 
+#### - 🌱 I’m currently exploring Web Development. 
 #### - 🔭 I’m currently using javascript for my projects.
 #### - 📫 How to reach me: 📧rushichaudhari1237@gmail.com 📱+91-8862037995
 #### - 😄 Pronouns: he/him/his
