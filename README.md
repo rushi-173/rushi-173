@@ -1,15 +1,15 @@
-### Hey buddy 👋,
+## Hey buddy 👋,
 
-Now that you are looking @ my profile, here's a little something about me.😊
+####Now that you are looking @ my profile, here's a little something about me.😊
 
-- 🤓 I am a curious soul who loves to explore new things.
-- 💝 I love to apply my knowledge somewhere and share my learnings with others.
-- 👨‍💻 I am passionate for solving practical problems through efficient problem solving skill. 
-- 🌱 I’m currently exploring Web Development in deep. 
-- 🔭 I’m currently using javascript for my projects.
-- 📫 How to reach me: 📧rushichaudhari1237@gmail.com 📱+91-8862037995
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I took admission in the engineering college to learn software development.
+#### - 🤓 I am a curious soul who loves to explore new things.
+#### - 💝 I love to apply my knowledge somewhere and share my learnings with others.
+#### - 👨‍💻 I am passionate for solving practical problems through efficient problem solving skill. 
+#### - 🌱 I’m currently exploring Web Development in deep. 
+#### - 🔭 I’m currently using javascript for my projects.
+#### - 📫 How to reach me: 📧rushichaudhari1237@gmail.com 📱+91-8862037995
+#### - 😄 Pronouns: he/him/his
+#### - ⚡ Fun fact: I took admission in the engineering college to learn software development.
 
 
 <!--
