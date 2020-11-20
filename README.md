@@ -1,6 +1,6 @@
 ## Hey buddy 👋,
 
-####Now that you are looking @ my profile, here's a little something about me.😊
+#### Now that you are looking @ my profile, here's a little something about me.😊
 
 #### - 🤓 I am a curious soul who loves to explore new things.
 #### - 💝 I love to apply my knowledge somewhere and share my learnings with others.
