@@ -7,6 +7,7 @@
 #### - 👨‍💻 I am passionate for solving practical problems through efficient problem solving skill. 
 #### - 🌱 I’m currently exploring Web Development. 
 #### - 🔭 I’m currently using javascript for my projects.
+#### - 🔭 Want to see my projects? Here is my portfolio - https://rushikeshchaudhari.netlify.app/.
 #### - 📫 How to reach me: 📧rushi.chaudhari@yahoo.com 📱+91-8862037995
 #### - 😄 Pronouns: he/him/his
 #### - ⚡ Fun fact: I took admission in the engineering college to learn software development.
