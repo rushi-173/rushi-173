@@ -10,7 +10,7 @@ I’m a Front End Developer, experienced in building responsive, accessible webs
 #### - 🌱 I’m currently learning NextJS and GraphQL. 
 #### - 🔭 I’m currently using MERN stack for my projects.
 #### - 🔭 Want to see my projects? Here is my portfolio - https://rushikeshchaudhari.netlify.app/. 
-#### - 📫 How to reach me: 📧rushi.chaudhari@yahoo.com 📱+91-8862037995
+#### - 📫 How to reach me: 📧rushi.chaudhari@yahoo.com
 #### - 😄 Pronouns: he/him/his
 #### - ⚡ Fun fact: I took admission in the engineering college to learn software development.
 
