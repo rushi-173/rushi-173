@@ -2,14 +2,15 @@
 
 #### Now that you are looking @ my profile, here's a little something about me.😊
 
-I’m a Front End Developer, experienced in building responsive, accessible websites and web applications using ReactJS, TypeScript, NextJS, Graphql, Redux-Toolkit, etc.  
+I’m a Frontend engineer with 3+ years of experience in frontend development, focused on best practices, performance,
+and accessibility. I create pixel-perfect UIs, boost developer productivity, and deliver valuable features on time.
 
-#### - 🤓 I am a curious soul who loves to explore new things.
-#### - 💝 I love to build and share my learnings with others.
+#### - 👋 My name is Rushikesh Chaudhari
+#### - 👀 I’m building amazing stuff @MagicStudio
+#### - 🌱 I’m currently shipping amazing UIs built using "NextJS 14" to production
+#### - 📫 Also me - @ms-rushi
 #### - 👨‍💻 I am passionate for solving complex problems. 
 #### - 🌱 I’m proficient in javascript and its frameworks like ReactJS, NextJS and React Native. 
-#### - 🔭 I’m have extensively used MERN stack for my projects.
-#### - 🔭 Want to see my projects? Here is my portfolio - https://rushikeshchaudhari.in . 
 #### - 📫 How to reach me: 📧rushichaudhari1237@gmail.com
 #### - 😄 Pronouns: he/him/his
 
