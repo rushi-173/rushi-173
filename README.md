@@ -10,8 +10,7 @@ and accessibility. I create pixel-perfect UIs, boost developer productivity, and
 - 🌱 I’m currently shipping amazing UIs built using "NextJS 14" to production
 - 📫 Also me - [@ms-rushi](https://github.com/ms-rushi)
 - 👨‍💻 I am passionate for solving complex problems. 
-- 🌱 I’m proficient in javascript and its frameworks like ReactJS, NextJS and React Native. 
-- 📫 How to reach me: 📧rushichaudhari1237@gmail.com
+- 🌱 I’m proficient in javascript and its frameworks like ReactJS, NextJS and React Native.
 - 😄 Pronouns: he/him/his
 
 ## Skill set:
