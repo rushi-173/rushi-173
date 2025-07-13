@@ -8,7 +8,7 @@ and accessibility. I create pixel-perfect UIs, boost developer productivity, and
 - 👋 My name is Rushikesh Chaudhari
 - 👀 I’m building amazing stuff [@MagicStudio](https://instaheadshots.com/)
 - 🌱 I’m currently shipping amazing UIs built using "NextJS 14" to production
-- 📫 Also me - [@ms-rushi](https://github.com/ms-rushi)
+- 📫 Also me - [@ms-rushi](https://github.com/ms-rushi), [@h-rushi](https://github.com/h-rushi)
 - 👨‍💻 I am passionate for solving complex problems. 
 - 🌱 I’m proficient in javascript and its frameworks like ReactJS, NextJS and React Native.
 - 😄 Pronouns: he/him/his
